@@ -1,11 +1,11 @@
 body {
-    background-color: #f5f5f5;
+    background-color: #b9b8b8; /*muutsin värve */
     font-family: Arial, sans-serif;
     padding: 20px;
 }
 
 h1 {
-    color: #2c3e50;
+    color: #5dada7; /* muutsin värve*/
     border-bottom: 2px solid #3498db;
 }
 
